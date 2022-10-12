@@ -232,10 +232,10 @@ body {
     width: 2vmin;
     height: 5vmin;
     background: $hair-dark-color;
-    border-radius: 50%;
     top: 40vmin;
     left: 57.15vmin;
     transform: rotate(30deg);
+    border-radius: 50%;
 
     &::before {
       width: 20vmin;
