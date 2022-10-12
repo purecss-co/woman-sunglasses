@@ -339,7 +339,7 @@ body {
     top: 30vmin;
     left: 6vmin;
 
-    &::after {
+    &::before {
       width: 18vmin;
       height: 24vmin;
       background: $skin-dark-color;
